@@ -1,0 +1,5 @@
+* [博客首页](/)
+* [指引](/pages/vite/guide)
+* [配置](/pages/vite/guide)
+* [插件](/pages/vite/guide)
+* [相关连接](/pages/vite/guide)
